@@ -1,0 +1,5 @@
+# Java Ignores
+*.class
+
+* Mac Ignores
+.DS_Store
