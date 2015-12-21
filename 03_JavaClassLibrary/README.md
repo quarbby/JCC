@@ -1,39 +1,39 @@
 # Java Class Library
-    * [Scanner](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
-    * [Math](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)
-    * [String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+   * [Scanner](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
+   * [Math](https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html)
+   * [String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
     
-    * Import Statements
+   * Import Statements
         - Good practice to only import what you need: `import java.util.Scanner` imports only the `Scanner` class
         - Eclipse/IDEs will usually prompt you to import what you didn't
         - Importing all from a library:  `import java.util.*`
         
-    * Initialising abstract datatypes from the imported libraries
+   * Initialising abstract datatypes from the imported libraries
     `<Abstract Datatype> <Your Variable Name> = "new" <Constructor>(<Parameters>);`
     
-    * Using `Scanner` class 
-        - Import
+   * Using `Scanner` class 
+      - Import
         `import java.util.Scanner;`
-        - Reading from System.in
+      - Reading from System.in
         ` Scanner scanner = new Scanner(System.in);`
-        - Get next integer
+      - Get next integer
         `int first = scanner.nextInt();`
         *How to read doubles/ strings etc?*
         
-    * Using `Math` class 
-        - Import
+   * Using `Math` class 
+      - Import
         `import java.lang.Math;`
-        - Min/ Max: `Math.max(first, second)`
-        - Other Math functions: pow... 
+      - Min/ Max: `Math.max(first, second)`
+      - Other Math functions: pow... 
         
-     * Using `String` class
-        - Import
+   * Using `String` class
+      - Import
         `import java.lang.String;`
-        - Creating a new string
+      - Creating a new string
         `String myString = new String("This is just a random string");`
-        - Length of string
+      - Length of string
         `myString.length()`
-        - Character at index
+      - Character at index
         `myString.charAt(index)`
         
 **The Code**

@@ -1,6 +1,6 @@
- # The Classic Hello World! 
+# The Classic Hello World!
  
- ## The Simplest Hello World (`HelloWorld1.java`)
+## The Simplest Hello World (`HelloWorld1.java`)
  *	Structure of a Hello World program
     * Create a class
     * Create a main method

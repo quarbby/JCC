@@ -4,7 +4,7 @@ Java Kickstart Workshop for NUS School of Computing Students, starting from Jan 
 For Java 7
 
 #### Materials Covered (all in Brief Overview)
-[2015 Slides](https://prezi.com/ms20e6r00g9l/java-confidence-course/?utm_campaign=share&utm_medium=copy)
+[**Jan 2015 Slides**](https://prezi.com/ms20e6r00g9l/java-confidence-course/?utm_campaign=share&utm_medium=copy)
 
 * Introduction
     * Hello World!
