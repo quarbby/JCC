@@ -1,4 +1,9 @@
 /********************************************************************************
+ *	This file contains all the code for all topics 
+ ********************************************************************************/
+
+
+/********************************************************************************
  *	Structure of a Hello World program
  *	main as a static method of a public class 
  * 	(static, class and public to be explained later)
